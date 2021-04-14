@@ -1,0 +1,27 @@
+{
+  "name": "app_electron",
+  "version": "1.0.0",
+  "description": "Application desktop en utilise ElectronJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MS-brahim/app_electron.git"
+  },
+  "keywords": [
+    "Node",
+    "Electron"
+  ],
+  "author": "Brahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MS-brahim/app_electron/issues"
+  },
+  "homepage": "https://github.com/MS-brahim/app_electron#readme",
+  "dependencies": {
+    "electron": "^12.0.4"
+  }
+}
